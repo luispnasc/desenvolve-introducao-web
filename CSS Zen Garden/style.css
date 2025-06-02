@@ -1,0 +1,12 @@
+/* Color Theme Swatches in Hex */
+/*.principal { color: #F24BA7; }
+.background { color: #181D26; }
+.Design-gráfico-3-hex { color: #D8E6F2; }
+.Design-gráfico-4-hex { color: #402319; }
+.destaque { color: #A67563; }*/
+
+html {
+    background: #181D26;
+    color: #F24BA7;
+}
+
